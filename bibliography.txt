@@ -3,3 +3,5 @@ https://www.markdownguide.org/basic-syntax/
 https://www.w3.org/WAI/fundamentals/accessibility-intro/
 https://www.joelonsoftware.com/category/uibook/
 http://mywiki.wooledge.org/BashPitfalls
+https://stackoverflow.com/questions/31025502/how-can-i-switch-word-wrap-on-and-off-in-visual-studio-code
+Melville, Herman, 1819-1891. Bartleby, the Scrivener : a Story of Wall-Street, 1853. [Minneapolis] :Indulgence Press, 1995.
