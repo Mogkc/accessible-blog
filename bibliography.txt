@@ -1,0 +1,5 @@
+https://www.boia.org/blog/8-facts-about-hearing-disabilities-and-web-accessibility
+https://www.markdownguide.org/basic-syntax/
+https://www.w3.org/WAI/fundamentals/accessibility-intro/
+https://www.joelonsoftware.com/category/uibook/
+http://mywiki.wooledge.org/BashPitfalls
