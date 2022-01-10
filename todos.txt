@@ -1,0 +1,15 @@
+Currently Working On
+    ToDo List
+        Type up todo list
+        Decide formatting for todo list
+        Compare/Contrast Different formats for todo list
+
+Soon
+    ToDo List
+        Web-viewable todo list with option to hide completed/discarded tasks
+
+Eventually
+    ToDo List
+        Code that generates Web-viewable list from todo file
+
+Moonshots
